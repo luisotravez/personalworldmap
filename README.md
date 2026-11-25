@@ -1,6 +1,6 @@
 # Mapping Your Own World of Content
 
-Started by Luis Carranza Perales ([@luisotravez](https://github.com/luisotravez)).
+Created by Luis Carranza Perales ([@luisotravez](https://github.com/luisotravez)).
 
 A free, open 15-day guide for creators who want to build a personal world instead of a personal brand, and to publish their first pieces while they plan it. Version 0.1, work in progress, built in public. The title is provisional.
 
@@ -24,13 +24,14 @@ It is written in English first, because that is where the most feedback and the 
 
 | Days | Time | What happens |
 | --- | --- | --- |
-| 0 (optional) | Can be nested into day 1 | Learn the process and the basic guidelines, such as build in public: publish while you plan and experiment |
-| 1 to 6 | 15 to 20 min | Foundations. Every day ends with something small you can publish |
-| 7 | 1 hour | Milestone: an introduction video that says who you are and what you will talk about |
+| ([Day 0](days/day-00)) (optional) | Can be nested into day 1 | Learn the process and the basic guidelines, such as build in public: publish while you plan and experiment |
+| ([Day 1](days/day-01)) | 15 to 20 min | Map your interests. Let's see what your world is about, and what you can start your worldmap with! |
+| 2-6| 15 to 20 min | Foundations. Every day ends with something small you can publish |
+7 | 1 hour | Milestone: an introduction video that says who you are and what you will talk about |
 | 8 to 14 | 15 to 20 min | Shape a repeatable format |
 | 15 | 1 hour | Milestone: the first piece of your repeatable format or series |
 
-This arc is provisional. Each day is its own card in [`days/`](days/), so days can be reordered, replaced or skipped without breaking the rest.
+This arc is provisional. Each day is its own card in [`days/`](days/), so days can be reordered, replaced or skipped when creating a different version of this whole process.
 
 ## What you will have at the end
 
